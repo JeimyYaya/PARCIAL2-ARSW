@@ -1,8 +1,10 @@
 edu\arsw\game\App.class
+edu\arsw\game\ws\WebSocketConfig.class
 edu\arsw\game\persistence\impl\InMemoryGamePersistence.class
+edu\arsw\game\model\Board.class
 edu\arsw\game\model\Hall.class
 edu\arsw\game\services\GameServices.class
-edu\arsw\game\model\User.class
+edu\arsw\game\ws\GameWebSocket.class
 edu\arsw\game\controllers\GameAPIController.class
 edu\arsw\game\persistence\GamePersistenceException.class
 edu\arsw\game\persistence\GamePersistence.class

@@ -1,8 +1,10 @@
 C:\Users\jeimy.yaya-m\arsw\PARCIAL-ARSW2\game\src\main\java\edu\arsw\game\App.java
 C:\Users\jeimy.yaya-m\arsw\PARCIAL-ARSW2\game\src\main\java\edu\arsw\game\persistence\GamePersistence.java
 C:\Users\jeimy.yaya-m\arsw\PARCIAL-ARSW2\game\src\main\java\edu\arsw\game\persistence\impl\InMemoryGamePersistence.java
+C:\Users\jeimy.yaya-m\arsw\PARCIAL-ARSW2\game\src\main\java\edu\arsw\game\ws\WebSocketConfig.java
 C:\Users\jeimy.yaya-m\arsw\PARCIAL-ARSW2\game\src\main\java\edu\arsw\game\persistence\GamePersistenceException.java
-C:\Users\jeimy.yaya-m\arsw\PARCIAL-ARSW2\game\src\main\java\edu\arsw\game\model\User.java
+C:\Users\jeimy.yaya-m\arsw\PARCIAL-ARSW2\game\src\main\java\edu\arsw\game\model\Board.java
 C:\Users\jeimy.yaya-m\arsw\PARCIAL-ARSW2\game\src\main\java\edu\arsw\game\services\GameServices.java
 C:\Users\jeimy.yaya-m\arsw\PARCIAL-ARSW2\game\src\main\java\edu\arsw\game\controllers\GameAPIController.java
+C:\Users\jeimy.yaya-m\arsw\PARCIAL-ARSW2\game\src\main\java\edu\arsw\game\ws\GameWebSocket.java
 C:\Users\jeimy.yaya-m\arsw\PARCIAL-ARSW2\game\src\main\java\edu\arsw\game\model\Hall.java
